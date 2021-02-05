@@ -61,6 +61,6 @@ predict(GunsModel, newdata = data.frame(prisoners=6504))
 cor(Guns$income, Guns$prisoners, method = "pearson")
 
 #Step 2.9
-cor.test(Guns$income, Guns$prisoners)
+cor.test(Guns$income, Guns$prisoners) 
 
 
