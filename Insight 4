@@ -61,4 +61,4 @@ mean(GunsRobbery7782NonSouthSS$robbery)
 
 #Step 4.14
 summary(GunsSouthSS)
-summary(GunsNoneSouthSS)
+summary(GunsNoneSouthSS) 
