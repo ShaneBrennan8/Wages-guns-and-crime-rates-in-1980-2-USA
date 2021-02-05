@@ -90,4 +90,4 @@ GunsNationally = ggplot(data=Guns,
                         aes(x=year, y=violent)) +
   geom_point(alpha=5) +
   geom_smooth()
-print(GunsNationally + ggtitle ("National level of violent crimes per 100k 1977 - 1999"))
+print(GunsNationally + ggtitle ("National level of violent crimes per 100k 1977 - 1999")) 
