@@ -68,4 +68,4 @@ mean(femaleEd$lwage)
 #Step 3.15 Calculate gender pay gap percentage
 x = (6.729774-6.255308)
 paygap = (x/6.729774)*100
-paygap
+
